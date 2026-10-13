@@ -6,9 +6,6 @@ DOMAIN-SUFFIX,vossc.com
 DOMAIN-SUFFIX,gyks.cf
 DOMAIN-SUFFIX,qingtian618.com
 
-#遇见服务器
-IP-CIDR,210.16.175.40/32
-
 #大灰狼聚合
 DOMAIN-SUFFIX,langge.uk
 DOMAIN-SUFFIX,langge.cf
